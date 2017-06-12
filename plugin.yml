@@ -1,0 +1,7 @@
+name: LobbyCore
+main: LaFuma\Lobby
+version: Alpha
+api: 3.0.0ALPHA5
+author: LaFuma
+website: shop.networkgames.eu
+description: LobbyCore for SolarDinasty
