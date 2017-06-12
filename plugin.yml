@@ -1,5 +1,5 @@
 name: LobbyCore
-main: LaFuma\Lobby
+main: LaFuma\Main
 version: Alpha
 api: 3.0.0ALPHA5
 author: LaFuma
